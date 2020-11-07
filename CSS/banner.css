@@ -1,0 +1,9 @@
+.banner{
+    background-image: url(/images/tło.jpg);
+    height: 100vh;
+    background-position: center left;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

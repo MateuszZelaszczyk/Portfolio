@@ -1,0 +1,28 @@
+.navigation{
+    height: 80px;
+    width: 100%;
+    background:rgba(0, 0, 0, 0.514);
+    position: fixed;
+}
+.navigation__menu{
+    font-size: 20px;
+    list-style: none;
+    
+    display: flex;
+    width: 90%;
+    margin-right:auto;
+    margin-left: auto;
+    justify-content: right;
+    
+}
+.navigation__menu-item{
+    margin-left: 40px;
+    padding: 5px 0;
+    
+
+}
+.navigation__link{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}

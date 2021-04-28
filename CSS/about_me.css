@@ -2,10 +2,10 @@
     background-image: linear-gradient(to right ,rgb(67, 68, 67),
     rgb(105, 105, 105) 35% );
     margin: 0;
-    min-height: 450px;
+    min-height: 400px;
 }
 .about-me__img{
-    width: 30%;
+    width: 420px;
     float: left;
     padding-right: 10px;
     margin-left: 10px;

@@ -3,7 +3,7 @@
     height: 100vh;
     background-position: center left;
     background-size: cover;
-    display: flex;
-    align-items: center;
+    background-attachment: fixed;
+    position: initial;
     justify-content: center;
 }

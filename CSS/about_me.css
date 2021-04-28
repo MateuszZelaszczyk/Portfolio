@@ -1,40 +1,32 @@
 .about-me {
-    background-color: rgb(83, 83, 83);
+    background-image: linear-gradient(to right ,rgb(67, 68, 67),
+    rgb(105, 105, 105) 35% );
     margin: 0;
-    float: inline-start;
+    min-height: 450px;
 }
+.about-me__img{
+    width: 30%;
+    float: left;
+    padding-right: 10px;
+    margin-left: 10px;
 
+
+}
 .about-me__header {
     margin: auto;
     text-align: center;
     font-size: 35px;
-    color: chartreuse;
+    color: rgb(0, 204, 255);
     padding: 25px;
 
-}
-
-.about-me__img {
-    width: 45%;
-    float: left;
-   padding-right: 20px;
-   padding-left: 10px;
-   padding-bottom: 10px;
-
-}
-
-.about-me__paragraph1 {
-    margin: 0;
-    font-weight: bold;
-    font-size: 22px;
-    color: white;
-    padding-bottom: 15px;
 }
 
 .about-me__paragraph2 {
     margin: 0;
     color: white;
-    font-size: 18px;
-    padding-left: 30px;
-    padding-right: 30px;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
     line-height: 1.6;
+    text-align: left;
 }

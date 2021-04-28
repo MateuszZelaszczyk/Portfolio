@@ -1,7 +1,7 @@
 .navigation{
     height: 80px;
     width: 100%;
-    background:rgba(0, 0, 0, 0.514);
+    background:rgb(110, 110, 110);
     position: fixed;
 }
 .navigation__menu{
